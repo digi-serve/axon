@@ -7,7 +7,7 @@
     "debug": "*",
     "configurable": "0.0.1",
     "escape-regexp": "0.0.1",
-    "amp-message": "~0.1.1",
+    "amp-message": "github:digi-serve/node-amp-message#fixBigJSON",
     "amp": "~0.3.1"
   },
   "devDependencies": {
